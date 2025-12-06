@@ -20,6 +20,8 @@ Outra recomendação é entrar nos sites das respectivas empresas para verificar
 | Adidas | ✅ | ❓ | ❓ |
 | Adevinta | ✅ | ❓ | ❓ |
 | Amazon | ✅ | ❓ | ❓ |
+| Axpo Group | ✅ | ✅ | ✅ |
+| Betsson Group | ✅ | ✅ | ✅ |
 | Boost IT | ✅ | ❓ | ❓ |
 | Capitole Consulting | ✅ | ❓ | ❓ |
 | Citryx | ✅ | ❓ | ❓ |
@@ -51,6 +53,7 @@ Outra recomendação é entrar nos sites das respectivas empresas para verificar
 | Quonto | ✅ | ❓ | ❓ |
 | Sanofi | ✅ | ❓ | ❓ |
 | Tabby | ✅ | ✅ | ✅ |
+| The Workshop | ✅ | ✅ | ✅ | 
 | TradingView | ✅ | ✅ | ✅ |
 | Ubisoft | ✅ | ❓ | ❓ |
 | Wallapop | ✅ | ❓ | ❓ |
