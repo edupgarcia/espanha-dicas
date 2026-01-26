@@ -1,9 +1,9 @@
 ---
 title: "Nacionalidade Espanhola Por Residência"
-date: 2025-02-08
+date: 2025-08-02
 ---
 
-**Última atualização: Julho 2025**
+**Última atualização: Agosto 2025**
 
 ## O que é?
 
@@ -146,3 +146,5 @@ Este guia descreve o processo completo para um brasileiro que vive há mais de d
 ======================================================================
 
 ## Boa sorte!
+
+[Home](/espanha-dicas/)

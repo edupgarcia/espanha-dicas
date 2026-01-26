@@ -5,10 +5,10 @@
       {{ range .Pages.ByDate.Reverse }}
         <li>
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-          <div class="post-meta">{{ .Date.Format "02/01/2006" }}</div>
+          <div class="post-meta">{{ .Date.Format "Jan 2006" }}</div>
         </li>
       {{ end }}
     </ul>
-    <p><a href="#top">Voltar para cima</a></p>
+    <p><a href="#top" aria-label="Voltar para cima">↑</a></p>
   </section>
 {{ end }}

@@ -1,6 +1,6 @@
 ---
 title: "Troca de carteira de motorista (canje de permiso de conducir) na Espanha para brasileiros"
-date: 2022-10-16
+date: 2025-04-13
 ---
 
 **Última atualização: Abril 2025**
@@ -42,3 +42,4 @@ date: 2022-10-16
 - [Tramite de extranjeria](https://sede.policia.gob.es/portalCiudadano/_es/tramites_extranjeria_tramite_certificado_residente.php)
 
 ## **Boa sorte !!!**
+

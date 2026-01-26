@@ -1,6 +1,6 @@
 ---
 title: "Lista de procedimentos pós cidadania concedida"
-date: 2024-05-11
+date: 2024-10-11
 ---
 
 **Última atualização: Outubro 2024**
@@ -67,3 +67,4 @@ Após ter feito o DNI e o passaporte espanhol, há alguns trâmites a serem feit
 
 
 ## Boa sorte!
+

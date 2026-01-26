@@ -59,4 +59,3 @@ date: 2026-01-26
 
 ![Tela-07](/espanha-dicas/images/tela-07.png)
 
-[Voltar](/espanha-dicas/posts/canje-de-permiso-de-conducir/)

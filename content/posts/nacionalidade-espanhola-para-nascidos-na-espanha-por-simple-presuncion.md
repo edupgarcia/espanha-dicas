@@ -50,3 +50,4 @@ Obs: Nesta cita devem estar presentes ambos os pais da criança; o menor não pr
 - <https://espanhaadvogados.com/es/nacionalidad-espanola-para-nacidos-en-espana-simple-presuncion>
 - <https://espanaabogados.com/nacionalidad-espanola-por-simple-presuncion>
 - <https://www.abogadoextranjeriamadrid.net/servicios/solicitud-de-nacionalidad-por-simple-presuncion>
+

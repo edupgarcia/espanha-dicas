@@ -3,7 +3,6 @@
     {{ with .Content }}
       {{ . }}
     {{ end }}
-    <p><a href="#top">Voltar para cima</a></p>
   </section>
   <section>
     <h2>Posts recentes</h2>
@@ -11,7 +10,7 @@
       {{ range .Site.RegularPages.ByDate.Reverse }}
         <li>
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-          <div class="post-meta">{{ .Date.Format "02/01/2006" }}</div>
+          <div class="post-meta">{{ .Date.Format "Jan 2006" }}</div>
         </li>
       {{ end }}
     </ul>

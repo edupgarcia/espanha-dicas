@@ -52,3 +52,4 @@ O resultado é divulgado em 2 meses em média.
 [+] Informações e materiais oficiais: [https://examenes.cervantes.es/es/dele/examenes/a2](https://examenes.cervantes.es/es/dele/examenes/a2)
 
 ## Boa sorte!
+

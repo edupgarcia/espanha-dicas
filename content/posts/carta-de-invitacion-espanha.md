@@ -1,6 +1,6 @@
 ---
 title: "Carta de invitación"
-date: 2024-01-07
+date: 2024-04-07
 ---
 
 **Última atualização: Abril 2024**
@@ -52,3 +52,4 @@ Com a(s) carta(s) em mãos, é necessário enviá-la(s) fisicamente via correio 
 - [Informação de serviço ao cidadão](https://www.interior.gob.es/opencms/es/servicios-al-ciudadano/tramites-y-gestiones/extranjeria/regimen-general/carta-de-invitacion/)
 
 ## Boa sorte!
+

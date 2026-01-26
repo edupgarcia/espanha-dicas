@@ -1,9 +1,9 @@
 ---
 title: "Empresas que tem patrocinio de visto e/ou suporte para realocação na Espanha"
-date: 2025-06-14
+date: 2025-12-11
 ---
 
-**Última atualização: Outubro 2025**
+**Última atualização: Dezembro 2025**
 
 Este documento exibe uma lista de empresas de tecnologia que em teoria tem suporte ao visto e/ou à realocação para a **Espanha**, seja ela desde o Brasil ou de países do continente europeu / "próximos" ao continente Europeu.
 
@@ -61,6 +61,8 @@ Outra recomendação é entrar nos sites das respectivas empresas para verificar
 ---
 ## Links úteis
 
-TBD
+- Vagas na Espanha: https://github.com/remote-es/remotes
 
 ## Boa sorte!
+
+[Home](/espanha-dicas/)
