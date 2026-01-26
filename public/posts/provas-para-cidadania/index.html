@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="pt-br" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <title>Espanha Dicas</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      :root {
+        --bg: #ffffff;
+        --fg: #111111;
+        --header-bg: #f5f5f5;
+        --link: #0366d6;
+      }
+      [data-theme="dark"] {
+        --bg: #111827;
+        --fg: #f9fafb;
+        --header-bg: #1f2937;
+        --link: #60a5fa;
+      }
+      body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        margin: 0;
+        padding: 0;
+        line-height: 1.6;
+        background: var(--bg);
+        color: var(--fg);
+      }
+      main, footer {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 1.5rem;
+      }
+      header.site-header {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 1000;
+        background: var(--header-bg);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+      }
+      .site-header-inner {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 0.5rem 1.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1rem;
+      }
+      .site-header-title {
+        flex: 1;
+        text-align: center;
+        font-size: 1.4rem;
+        font-weight: 600;
+        margin: 0;
+      }
+      .site-header-title a {
+        text-decoration: none;
+        color: inherit;
+      }
+      .site-header-flag {
+        font-size: 1.5rem;
+        line-height: 1;
+      }
+      .theme-toggle-btn {
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        border-radius: 999px;
+        padding: 0.15rem 0.6rem;
+        font-size: 0.8rem;
+        cursor: pointer;
+        background: transparent;
+        color: inherit;
+      }
+      a { color: var(--link); }
+      h1, h2, h3 { margin-top: 1.5rem; }
+      .post-list { list-style: none; padding: 0; }
+      .post-list li { margin-bottom: 0.75rem; }
+      .post-meta { color: #6b7280; font-size: 0.9rem; }
+      main { padding-top: 4.25rem; }
+    </style>
+    <script>
+      (function() {
+        function setTheme(theme) {
+          document.documentElement.setAttribute('data-theme', theme);
+          try { localStorage.setItem('theme', theme); } catch (e) {}
+        }
+        var stored = null;
+        try { stored = localStorage.getItem('theme'); } catch (e) {}
+        if (stored === 'dark' || stored === 'light') {
+          setTheme(stored);
+        } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          setTheme('dark');
+        }
+        window.__toggleTheme = function() {
+          var current = document.documentElement.getAttribute('data-theme') || 'light';
+          setTheme(current === 'light' ? 'dark' : 'light');
+        };
+      })();
+    </script>
+  </head>
+  <body id="top">
+    <header class="site-header">
+      <div class="site-header-inner">
+        <div class="site-header-flag" aria-label="Brasil">🇧🇷</div>
+        <h1 class="site-header-title"><a href="https://edupgarcia.github.io/espanha-dicas/">Espanha Dicas</a></h1>
+        <div style="display:flex; align-items:center; gap:0.5rem;">
+          <button type="button" class="theme-toggle-btn" onclick="window.__toggleTheme()">🌞 / 🌙</button>
+          <div class="site-header-flag" aria-label="Espanha">🇪🇸</div>
+        </div>
+      </div>
+    </header>
+    <main>
+      
+  <article>
+    <header>
+      <h2>Dicas para as provas CCSE / DELE A2</h2>
+      <p class="post-meta">20/02/2023</p>
+    </header>
+    <p><strong>Última atualização: Fevereiro 2023</strong></p>
+<p>Para brasileiros, o processo de cidadania espanhola pode ser feito após 2 anos morando legalmente na Espanha.
+Um dos requisitos é comprovar o conhecimento da cultura e da língua espanhola.
+Para isso, entre outras maneiras, existem 2 provas: <strong>CCSE</strong> e <strong>DELE A2</strong>. Ambas são coordenadas pelo Instituto Cervantes.</p>
+<h2 id="dicas-para-ccse">Dicas para CCSE</h2>
+<p>CCSE é a prova de conhecimentos gerais. Existe um banco de 300 perguntas que não se altera com frequencia, então, a única dica é: Faça exaustivos simulados, pois as questões serão <strong>EXATAMENTE</strong> as que ali estão.</p>
+<p>Aplicativos oficiais para <a href="https://play.google.com/store/apps/details?id=com.institutocervantes.pruebaccse">Android</a> e <a href="https://apps.apple.com/es/app/ccse-nacionalidad-espa%C3%B1ola/id1461069757">iOS</a>.</p>
+<p>Para iOS há um outro aplicativo de igual eficácia. Basta buscar na Apple store por <strong>CCSE</strong> (eu mesmo só estudei por esse <em>genérico</em>).</p>
+<p>O resultado é divulgado em 1 mês em média.</p>
+<p>[+] Informações: <a href="https://examenes.cervantes.es/es/ccse/que-es">https://examenes.cervantes.es/es/ccse/que-es</a></p>
+<h2 id="dicas-para-dele-a2">Dicas para DELE A2</h2>
+<p>DELE A2 é o exame que comprova que você domina o básico das normas linguísticas espanholas (compreensão e interpretação de audios e textos, bem como fala).
+Essa é mais longa, mas também nada complicada. É dividida em 4 etapas:</p>
+<ol>
+<li>
+<p>Interpretação de textos (~60 minutos, com lápis)</p>
+</li>
+<li>
+<p>Compreensão auditiva (~40 minutos, com lápis)</p>
+</li>
+<li>
+<p>Redações (~50 minutos, com caneta)</p>
+<p>Prova escrita é sempre escrever um e-mail tarefa 1, então é só praticar uns exemplos. Minha tarefa 2 tinha opção de falar de música e cantor que mais gostava ou de uma férias que gostaria de tirar.</p>
+</li>
+<li>
+<p>Prova de fala (~10 minutos). A dica é: <strong>siga as instruções da prova e em ordem.</strong></p>
+<p>Tarefa 1: Monólogo - Falar livremente de 2 a 3 minutos de um tema a escolher: No meu caso foram sobre ou a cidade que vivo ou minha infância;</p>
+<p>Tarefa 2: Descrever uma foto. Lhe são dadas 2 para a escolha.</p>
+<p>Tarefa 3: Conversa com o examinador.</p>
+</li>
+</ol>
+<p>A dica é estudar os simulados oficiais e ver alguns canais no Youtube. Segue uma lista de ótimos canais pelos quais eu estudei:</p>
+<ul>
+<li><a href="https://www.youtube.com/@CCSEDELEA2">https://www.youtube.com/@CCSEDELEA2</a></li>
+<li><a href="https://www.youtube.com/@InstitutoCervantesVideos">https://www.youtube.com/@InstitutoCervantesVideos</a></li>
+<li><a href="https://www.youtube.com/@aporelDELE">https://www.youtube.com/@aporelDELE</a></li>
+<li><a href="https://www.youtube.com/@examendelea2">https://www.youtube.com/@examendelea2</a></li>
+</ul>
+<p>O resultado é divulgado em 2 meses em média.</p>
+<p>[+] Informações e materiais oficiais: <a href="https://examenes.cervantes.es/es/dele/examenes/a2">https://examenes.cervantes.es/es/dele/examenes/a2</a></p>
+<h2 id="boa-sorte">Boa sorte!</h2>
+
+    <p><a href="#top">Voltar para cima</a></p>
+  </article>
+
+    </main>
+    <footer>
+      <p>&copy; 2026 Espanha Dicas</p>
+    </footer>
+  </body>
+</html>

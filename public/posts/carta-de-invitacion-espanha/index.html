@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="pt-br" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <title>Espanha Dicas</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      :root {
+        --bg: #ffffff;
+        --fg: #111111;
+        --header-bg: #f5f5f5;
+        --link: #0366d6;
+      }
+      [data-theme="dark"] {
+        --bg: #111827;
+        --fg: #f9fafb;
+        --header-bg: #1f2937;
+        --link: #60a5fa;
+      }
+      body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        margin: 0;
+        padding: 0;
+        line-height: 1.6;
+        background: var(--bg);
+        color: var(--fg);
+      }
+      main, footer {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 1.5rem;
+      }
+      header.site-header {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 1000;
+        background: var(--header-bg);
+        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+      }
+      .site-header-inner {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 0.5rem 1.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 1rem;
+      }
+      .site-header-title {
+        flex: 1;
+        text-align: center;
+        font-size: 1.4rem;
+        font-weight: 600;
+        margin: 0;
+      }
+      .site-header-title a {
+        text-decoration: none;
+        color: inherit;
+      }
+      .site-header-flag {
+        font-size: 1.5rem;
+        line-height: 1;
+      }
+      .theme-toggle-btn {
+        border: 1px solid rgba(0, 0, 0, 0.2);
+        border-radius: 999px;
+        padding: 0.15rem 0.6rem;
+        font-size: 0.8rem;
+        cursor: pointer;
+        background: transparent;
+        color: inherit;
+      }
+      a { color: var(--link); }
+      h1, h2, h3 { margin-top: 1.5rem; }
+      .post-list { list-style: none; padding: 0; }
+      .post-list li { margin-bottom: 0.75rem; }
+      .post-meta { color: #6b7280; font-size: 0.9rem; }
+      main { padding-top: 4.25rem; }
+    </style>
+    <script>
+      (function() {
+        function setTheme(theme) {
+          document.documentElement.setAttribute('data-theme', theme);
+          try { localStorage.setItem('theme', theme); } catch (e) {}
+        }
+        var stored = null;
+        try { stored = localStorage.getItem('theme'); } catch (e) {}
+        if (stored === 'dark' || stored === 'light') {
+          setTheme(stored);
+        } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          setTheme('dark');
+        }
+        window.__toggleTheme = function() {
+          var current = document.documentElement.getAttribute('data-theme') || 'light';
+          setTheme(current === 'light' ? 'dark' : 'light');
+        };
+      })();
+    </script>
+  </head>
+  <body id="top">
+    <header class="site-header">
+      <div class="site-header-inner">
+        <div class="site-header-flag" aria-label="Brasil">🇧🇷</div>
+        <h1 class="site-header-title"><a href="https://edupgarcia.github.io/espanha-dicas/">Espanha Dicas</a></h1>
+        <div style="display:flex; align-items:center; gap:0.5rem;">
+          <button type="button" class="theme-toggle-btn" onclick="window.__toggleTheme()">🌞 / 🌙</button>
+          <div class="site-header-flag" aria-label="Espanha">🇪🇸</div>
+        </div>
+      </div>
+    </header>
+    <main>
+      
+  <article>
+    <header>
+      <h2>Carta de invitación</h2>
+      <p class="post-meta">07/01/2024</p>
+    </header>
+    <p><strong>Última atualização: Abril 2024</strong></p>
+<h3 id="o-que-é">O que é</h3>
+<p>Quando alguém vem pra Espanha para ficar como turista até 90 dias pode ser que, ao entrar na União Européia, a imigração <em>pode pedir</em> alguns documentos:</p>
+<ul>
+<li>Prova de hospedagem (ex: reserva de hotel)</li>
+<li>Prova de renda, mostrando que a pessoa tem dinheiro para se manter aqui pelo tempo necessário (mínimo 810 euros / pessoa)</li>
+</ul>
+<p><strong>OU</strong></p>
+<ul>
+<li>A &ldquo;carta de invitación&rdquo;, que é um documento que comprova onde a pessoa irá ficar e quem vai ser financeiramente responsável por ela em território espanhol.</li>
+</ul>
+<h3 id="agendamento">Agendamento</h3>
+<p><a href="https://icp.administracionelectronica.gob.es/icpco/acInfo">Site para o agendamento</a>. Leia <strong>atentamente</strong> as instruções do site, pois podem ter havido mudanças na listagem de documentação.</p>
+<h3 id="documentos">Documentos</h3>
+<ul>
+<li>
+<p><a href="https://sede.policia.gob.es/portalCiudadano/sede_electronica/extranjeria/carta_invitacion.pdf">Formulário da carta de invitación</a> (2 por convidado)</p>
+</li>
+<li>
+<p><a href="https://sede.policia.gob.es/Tasa790_012/">Formulário 790, código 012</a> <strong>já pagos</strong> (cerca de 74 Euros por grupo de pessoas vindo no mesmo vôo, ou seja, 2 pessoas no mesmo vôo = 1 taxa; 2 pessoas em vôos diferentes, 2 taxas)</p>
+</li>
+<li>
+<p>Original e cópia do TIE/DNI do solicitante</p>
+</li>
+<li>
+<p>Passaporte original do solicitante</p>
+</li>
+<li>
+<p>Cópia da página da foto do passaporte do solicitante</p>
+</li>
+<li>
+<p>Cópia da página da foto dos passaportes dos convidados</p>
+</li>
+<li>
+<p>Cópia do contrato de aluguel</p>
+</li>
+<li>
+<p>&ldquo;Nota simple de registro de la propiedad&rdquo; (documento sobre o imóvel que o solicitante reside). Pode ser obtido de duas formas:</p>
+<ul>
+<li>Presencialmente em Málaga no seguinte endereço: &ldquo;Registro Mercantil de Malaga&rdquo;, Calle Cerrojo 17, Malaga</li>
+<li>Online <a href="https://sede.registradores.org/site/invitado/propiedad/busqueda?nr=true#cruidufirhelp">nesse site</a>. Para saber qual o cartório, utilize <a href="https://geoportal.registradores.org/">essa outra ferramenta</a>.</li>
+</ul>
+</li>
+<li>
+<p>&ldquo;Volante de empadronamiento colectivo&rdquo; (não aceitam o individual)</p>
+</li>
+</ul>
+<h3 id="após-a-entrega-dos-documentos">Após a entrega dos documentos</h3>
+<p>Após a entrega você terá de obter outro agendamento para a recolha e haverá <em>outra</em> taxa a ser paga (cerca de 4 Euros por pessoa convidada).</p>
+<p>Com a(s) carta(s) em mãos, é necessário enviá-la(s) fisicamente via correio para os convidados, a fim de serem apresentadas na imigração no ato da chegada.</p>
+<h3 id="outros-links">Outros links</h3>
+<ul>
+<li><a href="https://sede.policia.gob.es/portalCiudadano/_es/tramites_extranjeria_tramite_autorizacionexpedicion_cartainvitacion.php">Portal da polícia de extranjeria para o trâmite de expedición de carta de invitación</a></li>
+<li><a href="https://www.interior.gob.es/opencms/es/servicios-al-ciudadano/tramites-y-gestiones/extranjeria/regimen-general/carta-de-invitacion/">Informação de serviço ao cidadão</a></li>
+</ul>
+<h2 id="boa-sorte">Boa sorte!</h2>
+
+    <p><a href="#top">Voltar para cima</a></p>
+  </article>
+
+    </main>
+    <footer>
+      <p>&copy; 2026 Espanha Dicas</p>
+    </footer>
+  </body>
+</html>

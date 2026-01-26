@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <section>
+    <h2>{{ .Title }}</h2>
+    <ul class="post-list">
+      {{ range .Pages.ByDate.Reverse }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          <div class="post-meta">{{ .Date.Format "02/01/2006" }}</div>
+        </li>
+      {{ end }}
+    </ul>
+    <p><a href="#top">Voltar para cima</a></p>
+  </section>
+{{ end }}
