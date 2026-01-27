@@ -1,0 +1,8 @@
+baseURL = "https://rrnazario.github.io/espanha-dicas/"
+languageCode = "pt-br"
+title = "Espanha Dicas"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
