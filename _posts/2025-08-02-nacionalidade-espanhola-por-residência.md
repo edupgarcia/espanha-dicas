@@ -4,7 +4,7 @@ layout: post
 
 # Nacionalidade Espanhola Por Residência
 
-** Última atualização: Agosto 2025 **
+**Última atualização: Agosto de 2025**
 
 ## O que é?
 
@@ -144,6 +144,6 @@ Este guia descreve o processo completo para um brasileiro que vive há mais de d
 
 ---
 
-======================================================================
+#### Boa sorte!
 
-## Boa sorte!
+[Voltar](/)

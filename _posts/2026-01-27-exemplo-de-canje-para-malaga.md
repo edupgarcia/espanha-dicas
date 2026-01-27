@@ -1,4 +1,10 @@
+---
+layout: post
+---
+
 # Exemplo de Canje para Málaga
+
+**Última atualização: Janeiro de 2026**
 
 ## 1. Solicitação de agendamento prévio (Almería, Málaga ou Sevilla)
 
@@ -6,32 +12,32 @@
 - Selecione **Canjes**
 - Click no botão **Continuar**
 
-![Tela-01](https://rrnazario.github.io/espanha-dicas/exemplo-de-canje/Tela-01.png)
+![Tela01](/images/tela01.png)
 
 ## 2. Na página seguinte
 
 - Em **Canje de Permissos** clique no botão **Pedir cita**
 
-![Tela-02](https://rrnazario.github.io/espanha-dicas/exemplo-de-canje/Tela-02.png)
+![Tela02](/images/tela02.png)
 
 ## 3. Autenticação
 
 - Para esse passo é necessário ter uma assinatura digital
 - Clique no botão **Aceptar**
 
-![Tela-03](https://rrnazario.github.io/espanha-dicas/exemplo-de-canje/Tela-03.png)
+![Tela03](/images/tela03.png)
 
 ## 4. Aplicativo de autenticação
 
 - Nesse exemplo, estou utilizando o app **cl@ve móvil**, mas você pode usar qualquer um dos que aparecem na página
 
-![Tela-04](https://rrnazario.github.io/espanha-dicas/exemplo-de-canje/Tela-04.png)
+![Tela04](/images/tela04.png)
 
 ## 5. QR Code de autenticação
 
 - Escaneie o QR Code para autenticar sua sessão
 
-![Tela-05](https://rrnazario.github.io/espanha-dicas/exemplo-de-canje/Tela-05.png)
+![Tela05](/images/tela05.png)
 
 ## 6. Informações
 
@@ -40,7 +46,7 @@
 - Selecione o **País**
 - Clique no botão **Aceptar**
 
-![Tela-06](https://rrnazario.github.io/espanha-dicas/exemplo-de-canje/Tela-06.png)
+![Tela06](/images/tela06.png)
 
 ## 7. Estado da validação da CNH
 
@@ -50,6 +56,10 @@
   - **Localizador** que só aparecerá se já foi verificada com o país
   - **Notificar** se já foi notificado sobre a solicitação
 
-![Tela-07](https://rrnazario.github.io/espanha-dicas/exemplo-de-canje/Tela-07.png)
+![Tela07](/images/tela07.png)
 
-[Voltar](../2022-10-16-canje-de-permiso-de-conducir.md)
+---
+
+#### Boa sorte!
+
+[Voltar](/)

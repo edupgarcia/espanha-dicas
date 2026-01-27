@@ -1,0 +1,79 @@
+I"n	<h1 id="exemplo-de-canje-para-málaga">Exemplo de Canje para Málaga</h1>
+
+<p><strong>Última atualização: Janeiro de 2026</strong></p>
+
+<h2 id="1-solicitação-de-agendamento-prévio-almería-málaga-ou-sevilla">1. Solicitação de agendamento prévio (Almería, Málaga ou Sevilla)</h2>
+
+<ul>
+  <li>Selecione <strong>Jefatura Provinvial de Trânsito de Málaga</strong></li>
+  <li>Selecione <strong>Canjes</strong></li>
+  <li>Click no botão <strong>Continuar</strong></li>
+</ul>
+
+<p><img src="/images/tela01.png" alt="Tela01" /></p>
+
+<h2 id="2-na-página-seguinte">2. Na página seguinte</h2>
+
+<ul>
+  <li>Em <strong>Canje de Permissos</strong> clique no botão <strong>Pedir cita</strong></li>
+</ul>
+
+<p><img src="/images/tela02.png" alt="Tela02" /></p>
+
+<h2 id="3-autenticação">3. Autenticação</h2>
+
+<ul>
+  <li>Para esse passo é necessário ter uma assinatura digital</li>
+  <li>Clique no botão <strong>Aceptar</strong></li>
+</ul>
+
+<p><img src="/images/tela03.png" alt="Tela03" /></p>
+
+<h2 id="4-aplicativo-de-autenticação">4. Aplicativo de autenticação</h2>
+
+<ul>
+  <li>Nesse exemplo, estou utilizando o app <strong>cl@ve móvil</strong>, mas você pode usar qualquer um dos que aparecem na página</li>
+</ul>
+
+<p><img src="/images/tela04.png" alt="Tela04" /></p>
+
+<h2 id="5-qr-code-de-autenticação">5. QR Code de autenticação</h2>
+
+<ul>
+  <li>Escaneie o QR Code para autenticar sua sessão</li>
+</ul>
+
+<p><img src="/images/tela05.png" alt="Tela05" /></p>
+
+<h2 id="6-informações">6. Informações</h2>
+
+<ul>
+  <li>Seu NIE será automáticamente identificado pela autenticação digital</li>
+  <li>Preencha sua <strong>Fecha de nascimento (*)</strong></li>
+  <li>Selecione o <strong>País</strong></li>
+  <li>Clique no botão <strong>Aceptar</strong></li>
+</ul>
+
+<p><img src="/images/tela06.png" alt="Tela06" /></p>
+
+<h2 id="7-estado-da-validação-da-cnh">7. Estado da validação da CNH</h2>
+
+<ul>
+  <li>Aqui se pode ver uma tabela com:
+    <ul>
+      <li><strong>Id</strong> da solicitação</li>
+      <li><strong>Estado</strong> da solicitação</li>
+      <li><strong>Localizador</strong> que só aparecerá se já foi verificada com o país</li>
+      <li><strong>Notificar</strong> se já foi notificado sobre a solicitação</li>
+    </ul>
+  </li>
+</ul>
+
+<p><img src="/images/tela07.png" alt="Tela07" /></p>
+
+<hr />
+
+<h4 id="boa-sorte">Boa sorte!</h4>
+
+<p><a href="/">Voltar</a></p>
+:ET

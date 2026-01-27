@@ -1,9 +1,10 @@
 ---
 layout: post
 ---
+
 # Carta de invitación
 
-** Última atualização: Janeiro 2024 **
+**Última atualização: Janeiro de 2024**
 
 ### O que é
 
@@ -51,4 +52,8 @@ Com a(s) carta(s) em mãos, é necessário enviá-la(s) fisicamente via correio 
 - [Portal da polícia de extranjeria para o trâmite de expedición de carta de invitación](https://sede.policia.gob.es/portalCiudadano/_es/tramites_extranjeria_tramite_autorizacionexpedicion_cartainvitacion.php)
 - [Informação de serviço ao cidadão](https://www.interior.gob.es/opencms/es/servicios-al-ciudadano/tramites-y-gestiones/extranjeria/regimen-general/carta-de-invitacion/)
 
-## Boa sorte!
+---
+
+#### Boa sorte!
+
+[Voltar](/)

@@ -1,9 +1,10 @@
 ---
 layout: post
 ---
+
 # Nacionalidade Espanhola Para Nascidos na Espanha por "Simple Presunción"
 
-** Última atualização: Novembro 2024 **
+**Última atualização: Novembro de 2024**
 
 ## Requisitos:
 - A criança nasceu na Espanha.
@@ -43,10 +44,14 @@ Obs: Nesta cita devem estar presentes ambos os pais da criança; o menor não pr
 - No registro civil de Málaga capital estão enviando o certificado literal de nacimento espanhol do menor por e-mail, geralmente em uma semana ou menos.
 - Em outras localidades, pode ser necessario agendar outro dia para ir pessoalmente buscar este certificado, favor perguntar e confirmar no dia em que for la se isso seria necessario e o prazo para ficar pronta, ja que o prazo pode variar em cada localidade (na capital costuma ser mais rápido). Todavia, se for necessario pedir cita para buscar o certificado, entao o trámite a selecionar se chama "CERTIFICADOS".
 
-## Boa sorte!
-
 ## Mais informações
 - <https://palmaabogadosextranjeria.com/blog/nacionalidad-espanola-simple-presuncion-nacimiento>
 - <https://espanhaadvogados.com/es/nacionalidad-espanola-para-nacidos-en-espana-simple-presuncion>
 - <https://espanaabogados.com/nacionalidad-espanola-por-simple-presuncion>
 - <https://www.abogadoextranjeriamadrid.net/servicios/solicitud-de-nacionalidad-por-simple-presuncion>
+
+---
+
+#### Boa sorte!
+
+[Voltar](/)

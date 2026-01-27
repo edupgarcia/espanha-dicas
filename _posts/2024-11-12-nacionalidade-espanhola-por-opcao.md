@@ -1,11 +1,13 @@
 ---
 layout: post
 ---
+
 # Nacionalidade Espanhola por opção
 
-** Última atualização: Novembro 2024 **
+**Última atualização: Novembro de 2024**
 
 ## O que é?
+
 Por exemplo, assim que o pai ou mãe obtém nacionalidade espanhola e DNI espanhol, eles podem pode pedir a nacionalidade espanhola por opção para seu filho(a) menor de 20 anos.
 Ver mais:
 - <https://espanhaadvogados.com/nacionalidade-espanhola-por-opcao/>
@@ -14,11 +16,13 @@ Ver mais:
 - <https://www.espanhalegal.info/p/nacionalidade/#Opcao>
 
 ## Onde?
+
 Esse procedimento é simples e se faz diretamente no registro civil.
 - Devem ir no registro civil da localidade aonde estão empadronados, ou não serão atentidos.
 - Este trámite no registro civil não tem custo nenhum.
 
 ## Cita
+
 Pedir cita no Registro Civil de onde o pai/mãe espanhol estiver empadronado:
 - <https://www.juntadeandalucia.es/justicia/citaprevia/?idCliente=4>
 - Trámite a selecionar: NACIONALIDAD
@@ -56,8 +60,12 @@ _Dica_:
 - No registro civil eles irão escanear todos os documentos e lhe devolver os originais (ou mesmo as cópias), e para facilitar escanear, se possível, seria melhor se os documentos não estiverem grampeados para ir mais rápido.
 
 ## Prazo
+
 - No registro civil de Málaga capital estão enviando o certificado literal de nacimento espanhol do menor por e-mail, geralmente em uma semana ou menos.
 - Em outras localidades, pode ser necessario agendar outro dia para ir pessoalmente buscar este certificado, favor perguntar e confirmar no dia em que for la se isso seria necessario e o prazo para ficar pronta, ja que o prazo pode variar em cada localidade (na capital costuma ser mais rápido). Todavia, se for necessario pedir cita para buscar o certificado, entao o trámite a selecionar se chama "CERTIFICADOS".
 
+---
 
-## Boa sorte!
+#### Boa sorte!
+
+[Voltar](/)

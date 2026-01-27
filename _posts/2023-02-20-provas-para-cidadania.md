@@ -1,7 +1,10 @@
 ---
 layout: post
 ---
+
 # Dicas para as provas CCSE / DELE A2
+
+**Última atualização: Fevereiro de 2023**
 
 Para brasileiros, o processo de cidadania espanhol pode ser feito após 2 anos morando legalmente na Espanha.
 Um dos requerimentos é comprovar o conhecimento da cultura e da lingua espanhola. 
@@ -49,4 +52,8 @@ O resultado é divulgado em 2 meses em média.
 
 [+] Informações e materiais oficiais: [https://examenes.cervantes.es/es/dele/examenes/a2](https://examenes.cervantes.es/es/dele/examenes/a2)
 
-## Boa sorte!
+---
+
+#### Boa sorte!
+
+[Voltar](/)

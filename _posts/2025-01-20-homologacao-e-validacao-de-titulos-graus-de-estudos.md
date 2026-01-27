@@ -3,7 +3,7 @@ layout: post
 ---
 # Homologação e validação de títulos/graus de estudos
 
-** Última atualização: Janeiro 2025 **
+**Última atualização: Janeiro de 2025**
 
 ## O que é?
 Homologação é como reconhecer um título obtido fora da Espanha para uso na Espanha, eles avaliam o título estrangeiro e emitem um Espanhol que pode ser usado no lugar daquele.
@@ -100,6 +100,8 @@ ACCEDA - Ministerio de Universidades (<https://universidades.sede.gob.es/>)
 - Si no va a utilizar la cita reservada: debe anularla antes de la fecha que tenga asignada, para que otra persona que la necesite, pueda utilizarla.
 - Recuerde que la inasistencia a la cita tiene un coste elevado para el erario público, tanto en medios personales como materiales y que nuestro sistema detecta la no asistencia a citas previamente reservadas.
 
-======================================================================
+---
 
-## Boa sorte!
+#### Boa sorte!
+
+[Voltar](/)
