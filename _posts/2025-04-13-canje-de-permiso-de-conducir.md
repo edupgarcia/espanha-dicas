@@ -1,16 +1,17 @@
 ---
 layout: post
 ---
+
 # Troca de carteira de motorista (canje de permiso de conducir) na Espanha para brasileiros
 
-## Passos a seguir
+**Última atualização: Abril de 2025**
 
-** **Última atualização: Abril de 2025**
+## Passos a seguir
 
 1. Peça um agendamento no DGT, [órgão responsável na Espanha](https://sedeclave.dgt.gob.es/WEB_NCIT_CONSULTA/solicitarCita.faces).
    - Se você for de Almería, Sevilla ou Málaga, use o [novo portal](https://sedeclave.dgt.gob.es/WEB_CITE_CONSULTA/paginas/cita.faces).
    - É necessário ter a certificação digital.
-   - Ex.: [Exemplo de canje](https://rrnazario.github.io/espanha-dicas/exemplo-de-canje/exemplo-de-canje.md)
+   - Ex.: [Exemplo de canje](./2026-01-27-exemplo-de-canje-para-malaga.md)
 
 2. Consulte se o Brasil confirmou neste [link](https://sedeapl.dgt.gob.es/WEB_NCIT_CONSULTA/consultacanjes/consultarCitaCanjes.faces).
    - Se você for de Almería, Sevilla ou Málaga, use o [novo portal](https://sedeclave.dgt.gob.es/WEB_CITE_CONSULTA/paginas/cita.faces), nesse caso, você pode consultar como se fosse solicitar o canje novamente.
@@ -41,4 +42,8 @@ layout: post
 
 - [Tramite de extranjeria](https://sede.policia.gob.es/portalCiudadano/_es/tramites_extranjeria_tramite_certificado_residente.php)
 
-## **Boa sorte !!!**
+---
+
+#### Boa sorte!
+
+[Voltar](/)

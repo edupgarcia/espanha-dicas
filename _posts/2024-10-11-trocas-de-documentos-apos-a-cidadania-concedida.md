@@ -1,9 +1,10 @@
 ---
 layout: post
 ---
+
 # Lista de procedimentos pós cidadania concedida
 
-** Última atualização: Outubro 2024 **
+**Última atualização: Outubro de 2024**
 
 ## Cidadania concedida, e agora?
 
@@ -65,5 +66,8 @@ Após ter feito o DNI e o passaporte espanhol, há alguns trâmites a serem feit
 - Trocar os dados na assistência sanitária.
 - Trâmite feito online. Mais informações [aqui](https://portal.seg-social.gob.es/wps/portal/importass/importass?1dmy&urile=wcm%3Apath%3A/wps/wcm/connect/importass/importass_contenidos/solicitudes/enviar).
 
+---
 
-## Boa sorte!
+#### Boa sorte!
+
+[Voltar](/)
