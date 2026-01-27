@@ -70,4 +70,4 @@ Após ter feito o DNI e o passaporte espanhol, há alguns trâmites a serem feit
 
 #### Boa sorte!
 
-[Voltar](/)
+[Voltar](/espanha-dicas/)
