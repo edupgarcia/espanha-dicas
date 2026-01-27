@@ -56,4 +56,4 @@ Com a(s) carta(s) em mãos, é necessário enviá-la(s) fisicamente via correio 
 
 #### Boa sorte!
 
-[Voltar](/)
+[Voltar](/espanha-dicas/)

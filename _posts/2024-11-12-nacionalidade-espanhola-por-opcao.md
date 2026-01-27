@@ -68,4 +68,4 @@ _Dica_:
 
 #### Boa sorte!
 
-[Voltar](/)
+[Voltar](/espanha-dicas/)

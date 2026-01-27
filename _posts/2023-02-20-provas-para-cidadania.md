@@ -56,4 +56,4 @@ O resultado é divulgado em 2 meses em média.
 
 #### Boa sorte!
 
-[Voltar](/)
+[Voltar](/espanha-dicas/)

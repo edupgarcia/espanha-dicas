@@ -68,4 +68,4 @@ Vagas na Espanha: https://github.com/remote-es/remotes
 
 #### Boa sorte!
 
-[Voltar](/)
+[Voltar](/espanha-dicas/)

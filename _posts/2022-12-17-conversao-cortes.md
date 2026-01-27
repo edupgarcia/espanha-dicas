@@ -51,4 +51,4 @@ layout: post
 
 #### Boa sorte!
 
-[Voltar](/)
+[Voltar](/espanha-dicas/)
