@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Espanha Dicas</title>
-    <link>http://localhost:1313/espanha-dicas/tags/</link>
+    <link>https://rrnazario.github.io/espanha-dicas/tags/</link>
     <description>Recent content in Tags on Espanha Dicas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <atom:link href="http://localhost:1313/espanha-dicas/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rrnazario.github.io/espanha-dicas/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
