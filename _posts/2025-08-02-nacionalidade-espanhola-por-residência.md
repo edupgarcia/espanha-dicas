@@ -140,7 +140,7 @@ Este guia descreve o processo completo para um brasileiro que vive há mais de d
 
 ### 5. Final
 
-- O processo de nacionalidade terminou. Agora siga para esse [link](https://rrnazario.github.io/espanha-dicas/2024/05/11/trocas-de-documentos-apos-a-cidadania-concedida.html) a fim de trocar os seus dados do NIE para o DNI nos locais necessários.
+- O processo de nacionalidade terminou. Agora siga para esse [link](https://rrnazario.github.io/espanha-dicas/2024/10/11/trocas-de-documentos-apos-a-cidadania-concedida.html) a fim de trocar os seus dados do NIE para o DNI nos locais necessários.
 
 ---
 
